@@ -1,4 +1,10 @@
 #true or false
+int(input("Enter a number:")
+int(input("Enter another number:")
+    check if it is ("<")
+    if it is ("<")
+    result("it is smaller")
+    print("it is smaller")
 print( 11 > 6)
 print( 45 == 9)
 print( 15 < 2)
