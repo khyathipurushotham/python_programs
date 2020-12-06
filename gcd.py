@@ -1,7 +1,7 @@
 # Python Program to find GCD of Two Numbers
 
-num1 = float(input(" Please Enter the First Value  Num1 : "))
-num2 = float(input(" Please Enter the Second Value Num2 : "))
+num1 = int(input(" Please Enter the First Value  Num1 : "))
+num2 = int(input(" Please Enter the Second Value Num2 : "))
 
 a = num1
 b = num2
